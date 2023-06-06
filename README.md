@@ -1,6 +1,4 @@
-# Welcome to my GitHub Profile!
-
-## Introduction
+## Welcome !👋
 
 I'm Salah-Eddine Goussaka, a passionate web developer with expertise in JavaScript/TypeScript, React, Next.js, and Node.js.
 
