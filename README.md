@@ -1,6 +1,6 @@
 ## Welcome !👋
 
-I'm Salah-Eddine Goussaka, a passionate web developer with expertise in JavaScript/TypeScript, React, Next.js, and Node.js.
+I'm Salah-Eddine Goussaka, a passionate web developer with expertise in HTML/CSS, JavaScript/TypeScript, React, Next.js, and Node.js.
 
 ## Connect with Me
 
